@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".nav-mob").click(function(){$(".nav a").toggle()})});
